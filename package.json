@@ -1,5 +1,6 @@
 {
-  "name": "root",
+  "name": "tinymce",
+  "version": "5.8.0",
   "private": true,
   "workspaces": [
     "modules/*"
